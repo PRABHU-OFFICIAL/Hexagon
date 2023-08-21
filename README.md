@@ -18,7 +18,7 @@ At Hexagon, we believe in the power of technology and creativity coming together
 
 To get started with Pixel Fusion and discuss your mobile application project, reach out to us through one of the following channels:
 
-- **Website:** [www.hexagonapps.com](https://www.hexagonapps.com)
+- **Website:** [www.hexagon.com](https://www.hexagon.com)
 - **Email:** info@hexagonapps.com
 - **Phone:** +1-XXX-XXX-XXXX
 
