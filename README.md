@@ -1,10 +1,10 @@
-# Pixel Fusion
+# Hexagon
 
-Welcome to Pixel Fusion, your partner in crafting innovative and exceptional mobile applications!
+Welcome to Hexagon, your partner in crafting innovative and exceptional mobile applications!
 
 ## About Us
 
-At Pixel Fusion, we believe in the power of technology and creativity coming together to create mobile applications that stand out. Our team of skilled developers, designers, and tech enthusiasts work collaboratively to bring your app ideas to life. We specialize in transforming concepts into functional, user-friendly, and visually stunning mobile applications.
+At Hexagon, we believe in the power of technology and creativity coming together to create mobile applications that stand out. Our team of skilled developers, designers, and tech enthusiasts work collaboratively to bring your app ideas to life. We specialize in transforming concepts into functional, user-friendly, and visually stunning mobile applications.
 
 ## Our Services
 
@@ -18,21 +18,21 @@ At Pixel Fusion, we believe in the power of technology and creativity coming tog
 
 To get started with Pixel Fusion and discuss your mobile application project, reach out to us through one of the following channels:
 
-- **Website:** [www.pixelfusionapps.com](https://www.pixelfusionapps.com)
-- **Email:** info@pixelfusionapps.com
+- **Website:** [www.hexagonapps.com](https://www.hexagonapps.com)
+- **Email:** info@hexagonapps.com
 - **Phone:** +1-XXX-XXX-XXXX
 
 ## Contributing
 
-We're always looking for passionate individuals to join our team. If you're a developer, designer, or have expertise in the mobile app industry, we'd love to hear from you. Check out our [careers page](https://www.pixelfusionapps.com/careers) for more information.
+We're always looking for passionate individuals to join our team. If you're a developer, designer, or have expertise in the mobile app industry, we'd love to hear from you. Check out our [careers page](https://www.hexagonapps.com/careers) for more information.
 
 ## Stay Connected
 
 Stay updated with our latest projects, industry insights, and company news by following us on social media:
 
-- Facebook: [@PixelFusionApps](https://www.facebook.com/PixelFusionApps)
-- Twitter: [@PixelFusionTech](https://twitter.com/PixelFusionTech)
-- Instagram: [@pixelfusion_apps](https://www.instagram.com/pixelfusion_apps/)
+- Facebook: [@HexagonApps](https://www.facebook.com/HexagonApps)
+- Twitter: [@HexagonTech](https://twitter.com/HexagonTech)
+- Instagram: [@Hexagon_apps](https://www.instagram.com/hexagon_apps/)
 
 ## License
 
