@@ -1,4 +1,4 @@
-# Hexagon
+# Hexagon {Open to contribute}
 
 Welcome to Hexagon, your partner in crafting innovative and exceptional mobile applications!
 
